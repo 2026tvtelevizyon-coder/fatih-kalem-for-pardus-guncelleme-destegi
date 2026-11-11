@@ -1,0 +1,14 @@
+Package: fatih-kalem-pardus
+Version: 0.7.8
+Architecture: amd64
+Maintainer: Fatih Kalem Pardus Contributors
+Installed-Size: 0
+Depends: libc6 (>= 2.35), libgl1, libegl1, libxkbcommon0, libdbus-1-3, libfontconfig1, libfreetype6, libx11-6, libx11-xcb1, libxcb1, libxcb-cursor0, libxcb-icccm4, libxcb-image0, libxcb-keysyms1, libxcb-randr0, libxcb-render-util0, libxcb-shape0, libxcb-shm0, libxcb-sync1, libxcb-xfixes0, libxcb-xkb1, libxkbcommon-x11-0, libglib2.0-0
+Section: education
+Priority: optional
+Description: Experimental offline screen annotation for Pardus
+ Native Qt prototype, not an official or identical port of the Windows app.
+ Python and Qt are bundled. X11 session recommended.
+Filename: pool/main/f/fatih-kalem-pardus/fatih-kalem-pardus_0.7.8_amd64.deb
+Size: 82457144
+SHA256: 7867f06cf6407fe733c7de97211c7807a7dd329290c73f268cdef36b2d078ac0
