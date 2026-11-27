@@ -1,0 +1,14 @@
+Origin: FatihKalemPardus
+Label: Fatih Kalem for Pardus
+Suite: stable
+Codename: pardus
+Date: Fri, 27 Nov 2026 17:56:06 GMT
+Architectures: amd64
+Components: main
+Description: Fatih Kalem for Pardus - guncelleme deposu (fatih-kalem-pardus_0.7.15_amd64.deb)
+MD5Sum:
+ 1b767e9f3f1d2f3d7329da803467b7e0 857 main/binary-amd64/Packages
+ e407068b3b0cab8ab2dd37dfa775005e 516 main/binary-amd64/Packages.gz
+SHA256:
+ d5a245e29d73829d56d86689b18ad8fa1093371d40d359b3afe3ec8be3c1a49f 857 main/binary-amd64/Packages
+ 46283ec11582b7db0131a888a4235c85cc55af8428cca88053563af8fd8b798b 516 main/binary-amd64/Packages.gz
